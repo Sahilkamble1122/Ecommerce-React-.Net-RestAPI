@@ -8,8 +8,7 @@ A full-featured eCommerce web application built with **ASP.NET Core (C#)** for t
 
 ### 🔒 Backend (ASP.NET Core)
 - ✅ JWT Authentication  
-- ✅ RESTful API with full CRUD (Products, Users, Categories)  
-- ✅ Image Upload & File Handling  
+- ✅ RESTful API with full CRUD (Products, Users, Categories)    
 - ✅ Clean Architecture: Controllers, Services, Repositories  
 - ✅ Dependency Injection (DI)  
 - ✅ NuGet for dependency management  
